@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**arajhansa/arajhansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer currently working at [Lean Station](https://leanstation.com). I am experienced in building end to end e-commerce service platform. I like to be constantly learning and adopting new technologies over core foundation of Software Engineering.
 
-Here are some ideas to get you started:
+## Currently Building stuff with
+<img src="https://miro.medium.com/max/3200/1*8bPiDNL1K1ZdK9O_T5IVKw.png" width=500 alt="golang"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Github Stats
+
+![Advay's Stats](https://github-readme-stats.vercel.app/api?username=arajhansa&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)
+![Advay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arajhansa&layout=compact&hide=php&hide_border=true)
+
+![](https://visitor-badge.glitch.me/badge?page_id=arajhansa.arajhansa)
+
