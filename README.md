@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer currently working at [Lean Station](https://leanstation.com). I am experienced in building end to end e-commerce service platform. I like to be constantly learning and adopting new technologies over core foundation of Software Engineering.
+I am a software developer currently working at [Lean Station](https://leanstation.com). I am experienced in building end to end e-commerce service platform. I like to keep learning constantly and adopting new technologies over core foundation of Software Engineering.
 
 ## Currently Building stuff with
 <img src="https://miro.medium.com/max/3200/1*8bPiDNL1K1ZdK9O_T5IVKw.png" width=500 alt="golang"> 
