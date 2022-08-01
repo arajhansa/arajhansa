@@ -3,8 +3,8 @@
 I am a software developer currently working at [Lean Station](https://leanstation.com). I am experienced in building end to end e-commerce service platform. I like to keep learning constantly and adopting new technologies over core foundation of Software Engineering.
 
 ## Currently Building stuff with
-<img src="https://assets.hongkiat.com/uploads/hello-world-different-programming-languages/kotlin.jpg" width=500 alt="kotlin"> 
-<img src="https://miro.medium.com/max/3200/1*8bPiDNL1K1ZdK9O_T5IVKw.png" width=500 alt="golang"> 
+![kotlin](kotlin.jpg "Kotlin") 
+![go](go.png "Go")
 
 
 ## Github Stats
